@@ -1,3 +1,6 @@
-this text is `#B71C1C` red
-# **hello!**
-
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
