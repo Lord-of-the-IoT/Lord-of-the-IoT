@@ -1,10 +1,6 @@
-# Hello! 
-### I am a 15 year old with an intrest in offensive security and cryptography
-</br>
+<div align="center"><h1>:wave: Hello!</h1></div>
+<div id="header" align="center">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="700"/>
+</div>
 
-#### Programming languages
-* Python
-* C
-* C++
-* NASM
-* Bash
+
