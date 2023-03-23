@@ -2,21 +2,24 @@
 <h1>
 Hello! I am Artemises Angel
 </h1>
-  
+
 ![](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
-  
+
 ![](https://komarev.com/ghpvc/?username=ArtemisesAngel&style=flat-square&color=grey)
 <h3>
 
 ---
-  
-Programming languages I know
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=cpp&logoColor=white">
-<img src="https://img.shields.io/badge/NASM-3776AB?style=for-the-badge&logo=nasm&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-3776AB?style=for-the-badge&logo=bash&logoColor=white">
+🛠️ Programming languages and tools
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="50">
+</div>
 </br></br>
 some stats about me
 </br>
@@ -27,8 +30,31 @@ some stats about me
 ---
 
 <h3>
-  About me
-  <h4>
-  I am a 15 year old hacker from canada
-  </h4>
+About me
+<h4>
+I am a 15 year old hacker from canada
+<ul>
+<li>
+🔭 I'm doing GCSEs in computer science, geography, music and french, and am doing AS level further mathematics
+</li>
+<li>
+🌱 Learning how the linux kernel works
+</li>
+<li>
+⚡ In my free time I write programs for hacking and learn new programming languages
+</li>
+<li>
+📧 reach me at artemisesangel@protonmail.com
+</li>
+</lu>
+</h4>
 </h3>
+
+
+
+
+
+
+
+
+
