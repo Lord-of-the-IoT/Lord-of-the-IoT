@@ -24,9 +24,11 @@ some stats about me
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemisesAngel&layout=compact&theme=radical" height="140">
 </div>
 
+---
+
 <h3>
   About me
   <h4>
   I am a 15 year old hacker from canada
   </h4>
-  </h3>
+</h3>
