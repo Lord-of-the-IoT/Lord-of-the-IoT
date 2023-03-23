@@ -21,7 +21,7 @@ Hello! I am Artemises Angel
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="50">
 </div>
 </br></br>
-some stats about me
+ℹ️ some stats about me
 </br>
 <img src="https://github-readme-stats.vercel.app/api/?username=ArtemisesAngel&theme=radical" height="140">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemisesAngel&layout=compact&theme=radical" height="140">
@@ -47,14 +47,25 @@ I am a 15 year old hacker from canada
 📧 reach me at artemisesangel@protonmail.com
 </li>
 </lu>
+<br>
 </h4>
+My intrests
+<h4>
+<ul>
+<li>
+💻 hacking
+</li>
+<li>
+🔒 encryption
+</li>
+<li>
+🏃‍♂️ running
+</li>
+<li>
+🥋 Judo and tai kwondo
+</li>
+<li>
+🧗‍♂️ climbing
+</li>
+</ul>
 </h3>
-
-
-
-
-
-
-
-
-
