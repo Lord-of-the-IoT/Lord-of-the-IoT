@@ -7,8 +7,7 @@ Hello! I am Artemises Angel
   
 ![](https://komarev.com/ghpvc/?username=ArtemisesAngel&style=flat-square&color=grey)
 <h3>
-I am 14 years old and love hacking and cryptography
-  
+
 ---
   
 Programming languages I know
@@ -21,8 +20,13 @@ Programming languages I know
 </br></br>
 some stats about me
 </br>
-<img src="https://github-readme-stats.vercel.app/api/?username=ArtemisesAngel&theme=radical" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemisesAngel&layout=compact&theme=radical" height="160">
-</br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArtemisesAngel", height=160>
+<img src="https://github-readme-stats.vercel.app/api/?username=ArtemisesAngel&theme=radical" height="140">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemisesAngel&layout=compact&theme=radical" height="140">
 </div>
+
+<h3>
+  About me
+  <h4>
+  I am a 15 year old hacker from canada
+  </h4>
+  </h3>
