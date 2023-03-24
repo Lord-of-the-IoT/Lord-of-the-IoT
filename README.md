@@ -62,7 +62,7 @@
           🏃‍♂️ running
         </li>
         <li>
-          🥋 Judo and tai kwondo
+          🥋 Judo
         </li>
         <li>
           🧗‍♂️ climbing
