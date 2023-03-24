@@ -1,30 +1,30 @@
 <div align="center">
-  <h1>
-    Hello! I am Artemises Angel
-  </h1>
+<h1>
+  Hello! I am Artemises Angel
+</h1>
 
-  ![](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
+![](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
 
-  ![](https://komarev.com/ghpvc/?username=ArtemisesAngel&style=flat-square&color=grey)
-  <h3>
+![](https://komarev.com/ghpvc/?username=ArtemisesAngel&style=flat-square&color=grey)
+<h3>
 
-    ---
+  ---
 
-    🛠️ Programming languages and tools
-    <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="50">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="50">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="50">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="50">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="50">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="50">
-    </div>
-    </br></br>
-    ℹ️ some stats about me
-    </br>
-    <img src="https://github-readme-stats.vercel.app/api/?username=ArtemisesAngel&theme=radical" height="140">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemisesAngel&layout=compact&theme=radical" height="140">
+  🛠️ Programming languages and tools
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="50">
+  </div>
+  </br></br>
+  ℹ️ some stats about me
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/?username=ArtemisesAngel&theme=radical" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemisesAngel&layout=compact&theme=radical" height="140">
 </div>
 
 ---
