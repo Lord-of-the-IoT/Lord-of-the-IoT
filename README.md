@@ -1,13 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<link href='https://fonts.googleapis.com/css?family=Fira Code' rel='stylesheet'>
-<style>
-body {
-font-family: 'Fira Code';font-size: 22px;
-}
-</style>
-</head>
   
 <body>
   
