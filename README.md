@@ -50,7 +50,7 @@
           ⚡ In my free time I write programs for hacking and learn new programming languages
         </li>
         <li>
-          📧 reach me at lord_of_the_iot@protn.me
+          📧 reach me at lord_of_the_iot@proton.me
         </li>
       </lu>
     </h4>
