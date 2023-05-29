@@ -5,12 +5,12 @@
   
 <div align="center">
 <h1>
-  Hello! I am Artemises Angel
+  Hello! I am Lord of The Iot
 </h1>
 
 ![](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
 
-![](https://komarev.com/ghpvc/?username=ArtemisesAngel&style=flat-square&color=grey)
+![](https://komarev.com/ghpvc/?username=Lord-of-the-IoT&style=flat-square&color=grey)
 <h3>
 
   ---
@@ -28,8 +28,8 @@
   </br></br>
   ℹ️ some stats about me
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/?username=ArtemisesAngel&theme=radical" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemisesAngel&layout=compact&theme=radical" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Lord-of-the-IoT&theme=radical" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-of-the-IoT&layout=compact&theme=radical" height="140">
 </div>
 
 ---
