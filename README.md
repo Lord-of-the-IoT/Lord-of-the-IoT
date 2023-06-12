@@ -38,13 +38,13 @@
   <h3>
   About me
     <h4>
-      I am a 15 year old hacker from canada
+      I am a 15 year old hacker from planet earth
       <ul>
         <li>
           🔭 I'm doing GCSEs in computer science, geography, music and french, and am doing AS level further mathematics
         </li>
         <li>
-          🌱 Learning how the linux kernel works
+          🌱 working through the red team module on TryHackMe
         </li>
         <li>
           ⚡ In my free time I write programs for hacking and learn new programming languages
@@ -71,6 +71,12 @@
         </li>
         <li>
           🧗‍♂️ climbing
+        </li>
+        <li>
+          surfing
+        </li>
+        <li>
+          skiing
         </li>
       </ul>
   </h4>
