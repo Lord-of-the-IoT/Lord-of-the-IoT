@@ -111,7 +111,7 @@
               Arduino
           </li>
           <li>
-              circuit production
+              electronics
           </li>
           <li>
               metasploit framework
