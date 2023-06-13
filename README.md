@@ -5,7 +5,7 @@
   
 <div align="center">
 <h1>
-  Hello! I am Lord of The Iot
+  Hello! I am Lord of The IoT
 </h1>
 
 ![](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
@@ -15,7 +15,7 @@
 
   ---
 
-  🛠️ Programming languages and tools
+  🛠️ Overview of skills
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="50">
@@ -80,6 +80,52 @@
         </li>
       </ul>
   </h4>
+  <h4>
+      My skills / tools I can use
+      <ul>
+          <li>
+              Python
+          </li>
+          <li>
+              C
+          </li>
+          <li>
+              C++
+          </li>
+          <li>
+              html
+          </li>
+          <li>
+              css
+          </li>
+          <li>
+              NASM
+          </li>
+          <li>
+              bash
+          </li>
+          <li>
+              rasberry Pi
+          </li>
+          <li>
+              Arduino
+          </li>
+          <li>
+              circuit production
+          </li>
+          <li>
+              metasploit framework
+          </li>
+          <li>
+              Aircrack-ng
+          </li>
+          <li>
+              OSINT
+          </li>
+          <li>
+              binary analysis
+          </li>
+      </h4>
 </h2>
   
 </body>
