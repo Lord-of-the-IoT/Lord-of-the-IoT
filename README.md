@@ -81,7 +81,7 @@
       </ul>
   </h4>
   <h4>
-      My skills / tools I can use
+      (some of) My skills / tools I can use
       <ul>
           <li>
               Python
