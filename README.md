@@ -41,7 +41,7 @@
       I am a 15 year old hacker from planet earth
       <ul>
         <li>
-          🔭 I'm doing GCSEs in computer science, geography, music and french, and am doing AS level further mathematics
+          🔭 I'm doing GCSEs in computer science, geography, music and french, and am doing A level additional maths
         </li>
         <li>
           🌱 working through the red team module on TryHackMe
@@ -61,7 +61,10 @@
           💻 hacking
         </li>
         <li>
-          🔒 encryption
+          🔒 cryptography
+        </li>
+        <li>
+          maths
         </li>
         <li>
           🏃‍♂️ running
